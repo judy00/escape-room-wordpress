@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<main class="pt-5">
+<main class="container pt-5">
   <section>
     <?php get_template_part('company'); ?>
   </section>
@@ -16,4 +16,3 @@
   </section>
 </main>
 <?php get_footer(); ?>
-  
